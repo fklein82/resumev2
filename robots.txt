@@ -1,0 +1,6 @@
+# fichier pour les robots du site http://www.fklein.me/
+User-Agent: * (autorise l’accès à tous les robots )
+Disallow: /intranet/ (interdit l’exploration du dossier intranet)
+Disallow: /login.php (interdit l’exploration de l’url http://www.fklein.me/login.php)
+Allow: /*.css?* (autorise l’accès à toutes les ressources css)
+Sitemap: https://www.fklein.me/sitemap_index.xml (lien vers le sitemap pour le référencement)
