@@ -1,5 +1,7 @@
-# [fklein.me](https://www.fklein.me) ![Status](https://frederic-klein.npkn.net/fklein-stat/)
+# [fklein.me](https://www.fklein.me)
  Code of my personnal Resume website. Developed with Bootstrap.
+
+ ![Status](https://frederic-klein.npkn.net/fklein-stat/)
 
  [![test](https://github.com/fklein82/resumev2/workflows/test/badge.svg)](https://github.com/fklein82/resumev2/actions?query=workflow%3Atest)
 
