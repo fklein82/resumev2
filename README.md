@@ -8,6 +8,8 @@
  [![status up](https://frederic-klein.npkn.net/site-status-badge/badge.svg)](https://frederic-klein.npkn.net/site-status-badge/)
  [![status down](https://frederic-klein.npkn.net/site-status-badge/badge.svg/400)](https://frederic-klein.npkn.net/site-status-badge/400)
 
+ ![Status](https://frederic-klein.npkn.net/site-status-badge/)
+
 ## Connect with me
 <br>
 <a href="https://twitter.com/fklein82"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
