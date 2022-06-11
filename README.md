@@ -5,10 +5,7 @@
 
  [![YourActionName Actions Status](https://github.com/fklein82/resumev2/workflows/Build-Push-DockerHUB/badge.svg)](https://github.com/fklein82/resumev2/actions)
 
- [![status up](https://frederic-klein.npkn.net/site-status-badge/badge.svg)](https://frederic-klein.npkn.net/site-status-badge/)
- [![status down](https://frederic-klein.npkn.net/site-status-badge/badge.svg/400)](https://frederic-klein.npkn.net/site-status-badge/400)
-
- ![Status](https://frederic-klein.npkn.net/site-status-badge/)
+ ![Status](https://frederic-klein.npkn.net/fklein-stat/)
 
 ## Connect with me
 <br>
