@@ -1,13 +1,15 @@
 # [fklein.me](https://www.fklein.me)
  Code of my personnal Resume website. Developed with Bootstrap.
 
- ![Status](https://frederic-klein.npkn.net/fklein-stat/)
-
  [![test](https://github.com/fklein82/resumev2/workflows/test/badge.svg)](https://github.com/fklein82/resumev2/actions?query=workflow%3Atest)
 
  [![YourActionName Actions Status](https://github.com/fklein82/resumev2/workflows/Build-Push-DockerHUB/badge.svg)](https://github.com/fklein82/resumev2/actions)
 
+# Status
 
+ ![Status](https://frederic-klein.npkn.net/fklein-stat/)
+
+ [More info](https://stats.uptimerobot.com/GzwEBSJV02)
 
 ## Connect with me
 <br>
