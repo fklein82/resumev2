@@ -3,7 +3,7 @@
 
  [![test](https://github.com/fklein82/resumev2/workflows/test/badge.svg)](https://github.com/fklein82/resumev2/actions?query=workflow%3Atest)
 
- [![Build Actions Status](https://github.com/fklein82/resumev2/workflows/Build-Push-DockerHUB/badge.svg)](https://github.com/fklein82/resumev2/actions)
+ [![YourActionName Actions Status](https://github.com/fklein82/resumev2/workflows/Build-Push-DockerHUB/badge.svg)](https://github.com/fklein82/resumev2/actions)
 
 ## Connect with me
 <br>
