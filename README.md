@@ -5,8 +5,8 @@
 
  [![YourActionName Actions Status](https://github.com/fklein82/resumev2/workflows/Build-Push-DockerHUB/badge.svg)](https://github.com/fklein82/resumev2/actions)
 
- ![Status](https://frederic-klein.npkn.net/fklein-stat/) 
- https://www.fklein.me
+ ![Status](https://frederic-klein.npkn.net/fklein-stat/)
+ [fklein.me](https://www.fklein.me)
 
 ## Connect with me
 <br>
