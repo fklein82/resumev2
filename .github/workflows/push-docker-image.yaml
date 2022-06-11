@@ -1,4 +1,4 @@
-name: This a workflow title 
+name: Build and Push to Docker HUB 
 on: [push] # When pushing to any branch then run this action
 # Env variable
 env:
