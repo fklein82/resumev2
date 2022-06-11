@@ -1,4 +1,4 @@
-name: Build and Push to Docker HUB 
+name: Build-Push-DockerHUB 
 on: [push] # When pushing to any branch then run this action
 # Env variable
 env:
