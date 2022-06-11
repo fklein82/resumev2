@@ -2,8 +2,7 @@ name: Build & deploy
 
 on:
   push:
-    branches:
-      - master
+    branches: [ "main" ]
 
 jobs:
   deploy:
