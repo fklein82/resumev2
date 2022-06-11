@@ -1,12 +1,10 @@
-# resumev2
+# resumev2: [https://fklein.me:](https://www.fklein.me) ![Status](https://frederic-klein.npkn.net/fklein-stat/)
  My personnal Website in onepage. Developed with Bootstrap.
 
  [![test](https://github.com/fklein82/resumev2/workflows/test/badge.svg)](https://github.com/fklein82/resumev2/actions?query=workflow%3Atest)
 
  [![YourActionName Actions Status](https://github.com/fklein82/resumev2/workflows/Build-Push-DockerHUB/badge.svg)](https://github.com/fklein82/resumev2/actions)
 
- [fklein.me:](https://www.fklein.me)
- ![Status](https://frederic-klein.npkn.net/fklein-stat/)
 
 
 ## Connect with me
