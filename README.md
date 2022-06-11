@@ -9,7 +9,7 @@
 
  ![Status](https://frederic-klein.npkn.net/fklein-stat/)
 
- [More info](https://stats.uptimerobot.com/GzwEBSJV02)
+ More information on [Uptimerobot](https://stats.uptimerobot.com/GzwEBSJV02)
 
 ## Connect with me
 <br>
