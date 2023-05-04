@@ -20,7 +20,7 @@ resume: true
 resume-external: false
 resume-url: assets/Resume_fklein_WEB_2023.pdf
 
-url: https://www.fklein.me
+# url: https://www.fklein.me
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
