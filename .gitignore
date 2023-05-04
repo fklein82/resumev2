@@ -1,2 +1,6 @@
 .DS_Store
-.github/.DS_Store
+_site
+.sass-cache
+Gemfile.lock
+.bundle
+vendor/
