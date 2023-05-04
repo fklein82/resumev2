@@ -20,7 +20,7 @@ resume: true
 resume-external: false
 resume-url: assets/Resume_fklein_WEB_2023.pdf
 
-url: https://sergiokopplin.github.io/indigo
+# url: https://sergiokopplin.github.io/indigo
 # your url: https://fklein82.github.io
 
 permalink: /:title/
