@@ -36,5 +36,5 @@ To delve deeper into my professional journey or to discuss potential collaborati
 
 <ul>
 	<li><a href="https://www.credly.com/badges/09ee2942-7cd0-4b85-b62d-e3f78b4f7db0/linked_in_profile">Linkedin Profile</a></li>
-	<li><a href="assets/Resume_Frédéric_KLEIN_WEB_sept_2023">My Résumé</a></li>
+	<li><a href="assets/resume_fklein_web_sept_2023.pdf">My Résumé</a></li>
 </ul>
